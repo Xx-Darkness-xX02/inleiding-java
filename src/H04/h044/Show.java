@@ -1,5 +1,5 @@
 package H04.h044;
-
+//dit soort troep.*;
 import java.awt.*;
 import java.applet.*;
 
